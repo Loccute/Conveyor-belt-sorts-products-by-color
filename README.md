@@ -13,4 +13,5 @@ The product classification process includes the following steps:
 
 We have an image of the project as follows
 
-We use embedded software written in Arduino language in this project.
+We use embedded software written in Arduino language in this project. Link demo project: https://drive.google.com/file/d/1OT8RTkoRJAJAPopeO4nxeGmVUK2RfYer/view?usp=sharing
+
